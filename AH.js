@@ -31,6 +31,6 @@ $(document).ready(function(){
 		});
 		$('#search-results').html(html);
 	}
-
+ 
 });
 
