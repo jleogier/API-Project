@@ -1,0 +1,38 @@
+@media only screen and (max-width: 500px) {
+	display: block;
+}
+
+body {
+	background-color: lightblue;
+}
+
+#search-result {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+#search-form {
+	text-align: center;
+	padding-top: 5%;
+}
+
+body h1 {
+	text-align: center;
+	color: #FF5050;
+}
+
+p:first-of-type {
+	font-size: 1em;
+	font-weight: 200;
+}
+
+p {
+	color: chocolate;	
+}
+
+.image {
+	border: 1px solid green;
+	width: 320px;
+	height: 180px;
+}
